@@ -1,3 +1,3 @@
-# Lenet-5
+# Libraries Performance
 
-CNN Lenet-5 implementation with different libraries: Caffe, CNTK, Keras (TensorFlow back-end), Pytorch and TensorFlow.
+Códigos utilizados para realizar experimento de avaliaço de performance de bibliotecas.
