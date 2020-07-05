@@ -1,3 +1,5 @@
+#Este código foi implementado a partir da modificação dos tutoriais disponíveis no repositório oficial do CNTK no GitHub (MICROSOFT CORPORATION, 2019). Disponível em: https://github.com/microsoft/CNTK/tree/master/Tutorials
+
 # -*- coding: utf-8 -*-
 """lenet-cntk.ipynb
 
