@@ -1,3 +1,5 @@
+# Este código foi implementado a partir da modificação de exemplos disponíveis no repositório oficial do PyTorch no GitHub (PYTORCH CORE TEAM, 2018). Disponível em:https://github.com/pytorch/examples/tree/master/mnist 
+
 #!/usr/bin/env python
 # coding: utf-8
 
